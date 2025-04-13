@@ -1,5 +1,11 @@
-# アプリケーション全体のデフォルトオーナー（個人）
+# アプリケーション全体のデフォルトオーナー
 * @shomakobayashi
 
-# バックエンドコードのオーナー（チーム）
-apps/backend/ @test-user-backend
+# バックエンドコードのオーナー
+apps/backend/ @codeowners-test/backend-team
+
+# フロントエンドコードのオーナー
+apps/frontend/ @codeowners-test/frontend-team
+
+# インフラ関連のコードはインフラチームが担当
+apps/infrastructure/ @codeowners-test/infrastructure-team
