@@ -2,10 +2,4 @@
 * @shomakobayashi
 
 # バックエンドコードのオーナー（チーム）
-apps/backend/ @codeowners-test/backend-team
-
-# フロントエンドコードのオーナー
-apps/frontend/ @codeowners-test/frontend-team
-
-# インフラ関連のコードはインフラチームが担当
-apps/infrastructure/ @codeowners-test/infrastructure-team
+apps/backend/ @test-user-backend
